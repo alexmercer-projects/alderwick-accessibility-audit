@@ -12,6 +12,10 @@ Also on the portfolio: https://alexmercer-studio.netlify.app/demos/alderwick-acc
 
 Or open `docs/index.html` in a browser. There is no build step for viewing.
 
+A PDF copy of the whole report is in `docs/Alderwick-accessibility-audit-DEMO.pdf`.
+
+![The report's summary: 19 barriers on the clinic site, 3 that stop patients cold, with issue counts by severity](screenshots/desktop.png)
+
 ## What's in it
 
 - Executive summary: 19 issues (3 critical, 7 high, 6 medium, 3 low), by severity and by WCAG principle
@@ -20,6 +24,12 @@ Or open `docs/index.html` in a browser. There is no build step for viewing.
 - Before and after code: alt text, color contrast with computed ratios, form labels, visible focus, a keyboard trap in a modal, heading structure, link purpose
 - Remediation plan: week 1, weeks 2 to 3, within 45 days, and ongoing
 - PDF remediation: tagging, reading order, form field names, document properties, and checking
+
+## Screenshots
+
+- [Findings table](screenshots/findings.png)
+- [Before and after code](screenshots/fixes.png)
+- [Phone view](screenshots/mobile.png)
 
 ## The page itself
 
