@@ -6,9 +6,9 @@ This is a concept demo. Alderwick Family Clinic and its website don't exist, and
 
 ## View it
 
-Live report: https://alexmercer-projects.github.io/alderwick-accessibility-audit/
+Live report: https://alexmercerprojects.com/alderwick-accessibility-audit/
 
-Also on the portfolio: https://alexmercer-studio.netlify.app/demos/alderwick-accessibility-audit/
+Also on the portfolio: https://alexmercerprojects.com/work/alderwick-accessibility-audit/
 
 Or open `docs/index.html` in a browser. There is no build step for viewing.
 

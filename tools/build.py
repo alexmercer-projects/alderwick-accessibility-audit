@@ -599,7 +599,7 @@ A(f'''</ol>
 page = ''.join(h)
 if STANDALONE:
     page = page.replace('../../samples/Alderwick-accessibility-audit-DEMO.pdf', 'Alderwick-accessibility-audit-DEMO.pdf')
-    page = page.replace('../../index.html', 'https://alexmercer-studio.netlify.app/')
+    page = page.replace('../../index.html', 'https://alexmercerprojects.com/')
 open(OUT, 'w').write(page)
 print('wrote', OUT, 'findings', total, counts, 'criteria', len(uniq_sc), 'new22', new22, 'byP', by_pr, 'A/AA', lvlA, lvlAA)
 print('ratios', R)
