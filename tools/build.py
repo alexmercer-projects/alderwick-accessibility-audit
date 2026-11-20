@@ -292,11 +292,11 @@ A(f'''<!DOCTYPE html>
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Alderwick Family Clinic — WCAG 2.2 AA accessibility audit (concept demo)</title>
+  <title>Alderwick Family Clinic: WCAG 2.2 AA accessibility audit (concept demo)</title>
   <meta name="description" content="Concept demo of a WCAG 2.2 Level AA accessibility audit report for Alderwick Family Clinic, a fictional clinic website: severity summary, scope and method, {total} example findings mapped to success criteria, before-and-after code fixes, a remediation plan and a PDF note. Built by Alex Mercer.">
   <meta name="robots" content="noindex">
   <meta name="theme-color" content="#f3f1ea">
-  <meta property="og:title" content="Alderwick Family Clinic accessibility audit — concept demo">
+  <meta property="og:title" content="Alderwick Family Clinic accessibility audit, concept demo">
   <meta property="og:description" content="A sample WCAG 2.2 AA audit report for a made-up clinic website. The site doesn’t exist; every finding is an example.">
   <meta property="og:type" content="website">
   <link rel="preload" href="fonts/Geist.woff2" as="font" type="font/woff2" crossorigin>
